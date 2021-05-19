@@ -1,0 +1,58 @@
+<h1 id="tableLabel">Temperature Conversion</h1>
+<br />
+<div class="card">
+    <div class="card-body">
+        <br />
+        <form [formGroup]="form" (ngSubmit)="onSubmit()">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group row">
+                        <label for="temperature" class="col-sm-4 col-form-label">Temperature</label>
+                        <div class="col-sm-6">
+                            <input type="number"
+                                   class="form-control"
+                                   formControlName="temperature"
+                                   placeholder="Temperature..." />
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-6">
+                    <div class="form-group row">
+                        <label for="temperatureType" class="col-sm-4 col-form-label">Temperatture Type:</label>
+                        <div class="col-sm-6">
+                            <div class="input-group">
+                                <div class="input-group-append">
+                                    <select formControlName="temperatureType">
+                                        <option>Celsius</option>
+                                        <option>Fahrenheit</option>
+                                        <option>Kelvin</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Submit</button>
+
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Temp. (C)</th>
+            <th>Temp. (F)</th>
+            <th>Temp. (K)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{ temperature?.celsius }}</td>
+            <td>{{ temperature?.fahrenheit }}</td>
+            <td>{{ temperature?.kelvin }}</td>
+        </tr>
+    </tbody>
+</table>

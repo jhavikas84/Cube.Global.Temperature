@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cube.Global.Temperature.Core/1.0.0": {
+        "runtime": {
+          "Cube.Global.Temperature.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cube.Global.Temperature.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
