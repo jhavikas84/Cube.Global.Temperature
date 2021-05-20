@@ -5826,11 +5826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Temperatture.Test/Cube.Global.Temperatture.Test.csproj",
-      "projectName": "Cube.Global.Temperatture.Test",
-      "projectPath": "/Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Temperatture.Test/Cube.Global.Temperatture.Test.csproj",
+      "projectUniqueName": "/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperatture.Test/Cube.Global.Temperature.Test.csproj",
+      "projectName": "Cube.Global.Temperature.Test",
+      "projectPath": "/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperatture.Test/Cube.Global.Temperature.Test.csproj",
       "packagesPath": "/Users/jayanti/.nuget/packages/",
-      "outputPath": "/Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Temperatture.Test/obj/",
+      "outputPath": "/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperatture.Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jayanti/.config/NuGet/NuGet.Config"
@@ -5845,8 +5845,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Wep.Api/Cube.Global.Temperature.Wep.Api.csproj": {
-              "projectPath": "/Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Wep.Api/Cube.Global.Temperature.Wep.Api.csproj"
+            "/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Wep.Api/Cube.Global.Temperature.Wep.Api.csproj": {
+              "projectPath": "/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Wep.Api/Cube.Global.Temperature.Wep.Api.csproj"
             }
           }
         }

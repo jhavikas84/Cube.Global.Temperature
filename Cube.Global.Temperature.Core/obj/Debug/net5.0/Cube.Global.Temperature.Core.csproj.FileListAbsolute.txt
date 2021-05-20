@@ -10,3 +10,15 @@
 /Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.dll
 /Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Temperature.Core/obj/Debug/net5.0/ref/Cube.Global.Temperature.Core.dll
 /Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.pdb
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/bin/Debug/net5.0/Cube.Global.Temperature.Core.deps.json
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/bin/Debug/net5.0/Cube.Global.Temperature.Core.dll
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/bin/Debug/net5.0/ref/Cube.Global.Temperature.Core.dll
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/bin/Debug/net5.0/Cube.Global.Temperature.Core.pdb
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.csprojAssemblyReference.cache
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.AssemblyInfoInputs.cache
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.AssemblyInfo.cs
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.csproj.CoreCompileInputs.cache
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.dll
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/obj/Debug/net5.0/ref/Cube.Global.Temperature.Core.dll
+/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/obj/Debug/net5.0/Cube.Global.Temperature.Core.pdb

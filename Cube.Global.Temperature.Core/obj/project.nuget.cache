@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8DMUAWvKpQMpyAmwBNKHABVI/gs0ewB0jbLESrhmAUAZ+i3Ti/NZ+cwV+gsppN/eXD5oWOrM1FOzTEdmRTLshg==",
+  "dgSpecHash": "oWYxqmT/54Yls11zIOXWEnPwe8Ax2/TAMinVukci+IyhxlyrL1UH2aIIX8n5Kc+onyK8kp2nXGqyVvR83Gexww==",
   "success": true,
-  "projectFilePath": "/Users/jayanti/Desktop/Vikas Projects/Assignment/Cube.Global.Wep.Api/Cube.Global.Temperature.Core/Cube.Global.Temperature.Core.csproj",
+  "projectFilePath": "/Users/jayanti/Desktop/Vikas Projects/Cube/Cube.Global.Temperature/Cube.Global.Temperature.Core/Cube.Global.Temperature.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.Cube.Global.Temperature.Client PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Cube.Global.Temperature.Wep.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cube.Global.Temperatture.Client/ClientApp/src/app/app.module.ts">
+    <Files>
+      <File FileName="Cube.Global.Temperatture.Client/ClientApp/src/app/app.module.ts" Line="22" Column="70" />
+      <File FileName="Cube.Global.Temperatture.Test/TemperatureServiceTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cube.Global.Temperature" expanded="True">
+            <Node name="Cube.Global.Temperature.Client" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="app" expanded="True">
+                    <Node name="app.module.ts" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{733A2186-9305-466C-BE09-2B91F6BAA510}" ItemName="Cube.Global.Temperature.Client" />
+        <StartupItem ItemId="{6362EC78-D9AB-436E-8EAE-CCFED0BA8352}" ItemName="Cube.Global.Temperature.Wep.Api" ConfigurationId="Cube.Global.Wep.Api" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

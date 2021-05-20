@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube.Global.Temperature.Wep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube.Global.Temperature.Core", "Cube.Global.Temperature.Core\Cube.Global.Temperature.Core.csproj", "{4BB9865D-44FC-4558-AD90-AD8782DF04D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube.Global.Temperatture.Test", "Cube.Global.Temperatture.Test\Cube.Global.Temperatture.Test.csproj", "{74F37957-48C9-4B33-B2FC-3DD47F2B1B61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube.Global.Temperature.Test", "Cube.Global.Temperatture.Test\Cube.Global.Temperature.Test.csproj", "{74F37957-48C9-4B33-B2FC-3DD47F2B1B61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube.Global.Temperatture.Client", "Cube.Global.Temperatture.Client\Cube.Global.Temperatture.Client.csproj", "{733A2186-9305-466C-BE09-2B91F6BAA510}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube.Global.Temperature.Client", "Cube.Global.Temperatture.Client\Cube.Global.Temperature.Client.csproj", "{733A2186-9305-466C-BE09-2B91F6BAA510}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
